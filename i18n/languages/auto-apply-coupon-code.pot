@@ -1,0 +1,43 @@
+# Copyright (C) 2024 Naveen Kumar
+# This file is distributed under the same license as the Auto Apply Coupon Code plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Apply Coupon Code 1.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/auto-apply-coupon-code\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-23T09:41:56+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: auto-apply-coupon-code\n"
+
+#. Plugin Name of the plugin
+#: auto-apply-coupon-code.php
+msgid "Auto Apply Coupon Code"
+msgstr ""
+
+#. Description of the plugin
+#: auto-apply-coupon-code.php
+msgid "The \"Auto Apply Coupon Code\" plugin for WooCommerce automatically creates and applies a coupon code to the cart. When activated, the plugin generates a coupon code offering a 20% discount on all products and applies it to the cart.  This plugin ensures that customers always receive the discount without needing to manually enter the coupon code at checkout."
+msgstr ""
+
+#. Author of the plugin
+#: auto-apply-coupon-code.php
+msgid "Naveen Kumar"
+msgstr ""
+
+#. Author URI of the plugin
+#: auto-apply-coupon-code.php
+msgid "https://forloopnaveen.github.io/portfolioOfNK/"
+msgstr ""
+
+#: App/Controller/Main.php:43
+msgid "Coupon code applied successfully."
+msgstr ""
+
+#: App/Controller/Main.php:45
+msgid "Failed to apply coupon code."
+msgstr ""

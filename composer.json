@@ -1,0 +1,11 @@
+{
+  "name": "autoapplycouponcode/auto-apply-coupon-code",
+  "description": "This is to create a custom coupon code and apply coupon code automatically",
+  "type": "project",
+  "license": "GPL2 or latest",
+  "autoload": {
+    "psr-4": {
+      "Aacc\\": ""
+    }
+  }
+}
