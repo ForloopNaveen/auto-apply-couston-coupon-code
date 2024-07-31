@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-07-23T09:41:56+05:30\n"
+"POT-Creation-Date: 2024-07-26T16:31:36+05:30\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.10.0\n"
 "X-Domain: auto-apply-coupon-code\n"
@@ -34,10 +34,6 @@ msgstr ""
 msgid "https://forloopnaveen.github.io/portfolioOfNK/"
 msgstr ""
 
-#: App/Controller/Main.php:43
-msgid "Coupon code applied successfully."
-msgstr ""
-
-#: App/Controller/Main.php:45
-msgid "Failed to apply coupon code."
+#: auto-apply-coupon-code.php:32
+msgid "Naveen kumar"
 msgstr ""
